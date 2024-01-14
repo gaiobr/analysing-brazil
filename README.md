@@ -1,2 +1,2 @@
 # analysing-brazil
-Análises de dados brasileiros
+Análise de dados brasileiros
